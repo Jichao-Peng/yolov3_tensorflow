@@ -1,0 +1,21 @@
+/home/leo/Downloads/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/leo/Desktop/yolov3_project/src/yolov3_tf
+CMake Warning at CMakeLists.txt:6 (find_package):
+  By not providing "FindOpenCV.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "OpenCV", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "OpenCV" with any
+  of the following names:
+
+    OpenCVConfig.cmake
+    opencv-config.cmake
+
+  Add the installation prefix of "OpenCV" to CMAKE_PREFIX_PATH or set
+  "OpenCV_DIR" to a directory containing one of the above files.  If "OpenCV"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/leo/Desktop/yolov3_project/src/yolov3_tf/cmake-build-debug
